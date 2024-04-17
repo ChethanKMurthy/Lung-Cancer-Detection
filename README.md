@@ -24,5 +24,4 @@ The research paper resulting from this project was presented at the Internationa
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
----
-Feel free to contribute, provide feedback, or use this project for further research and development! 🚀
+
