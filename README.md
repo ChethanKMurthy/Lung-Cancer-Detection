@@ -19,8 +19,7 @@ Random Forest, Logistic Regression, Gaussian Naive Bayes, Bernoulli Naive Bayes,
 ## Presentation at MIT
 The research paper resulting from this project was presented at the International Student Conference on Multidisciplinary & Current Technical Research at MIT, showcasing the significance of employing machine learning techniques for early lung cancer detection.
 
-## Contribution Guidelines
-Contributions to this project are welcome! Please refer to the `CONTRIBUTING.md` file for guidelines.
+
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
